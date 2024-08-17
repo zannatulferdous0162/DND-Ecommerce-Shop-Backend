@@ -23,7 +23,7 @@ This is the backend of the project, built using Node.js, Express.js, and MongoDB
 
 1. Clone the repository:
    bash
-   git clone 
+   git clone : https://github.com/zannatulferdous0162/DND-Ecommerce-Shop-Backend
    cd project-backend
 
 
